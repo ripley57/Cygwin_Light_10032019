@@ -1,0 +1,413 @@
+2019/03/10 16:04:08 Starting cygwin install, version 2.895
+2019/03/10 16:04:08 User has backup/restore rights
+2019/03/10 16:04:08 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2019/03/10 16:04:08 Current Directory: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin
+2019/03/10 16:04:08 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2019/03/10 16:04:08 root: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019 system
+2019/03/10 16:04:08 Selected local directory: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin
+2019/03/10 16:04:09 net: Preconfig
+2019/03/10 16:04:10 site: http://mirrors.kernel.org/sourceware/cygwin/
+2019/03/10 16:04:11 HTTP status 404 fetching http://mirrors.kernel.org/sourceware/cygwin/x86/setup.zst.sig
+2019/03/10 16:04:11 HTTP status 404 fetching http://mirrors.kernel.org/sourceware/cygwin/x86/setup.zst
+2019/03/10 16:04:36 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2019/03/10 16:04:37 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2019/03/10 16:04:40 solving: 50 tasks, update: no, use test packages: no
+2019/03/10 16:04:40 Augmented Transaction List:
+2019/03/10 16:04:40    0 install                                     base-cygwin               3.8-1
+2019/03/10 16:04:40    1 install                                          cygwin             3.0.3-1
+2019/03/10 16:04:40    2 install                                           login              1.12-1
+2019/03/10 16:04:40    3 install                                          mintty             2.9.6-0
+2019/03/10 16:04:40    4 install                                        terminfo     6.0-12.20171125
+2019/03/10 16:04:40    5 install                                          tzdata             2018i-1
+2019/03/10 16:04:40    6 install                                python-pip-wheel            19.0.2-1
+2019/03/10 16:04:40    7 install                         python-setuptools-wheel            40.7.3-1
+2019/03/10 16:04:40    8 install                         publicsuffix-list-dafsa          20180523-1
+2019/03/10 16:04:40    9 install                                  libpopt-common              1.16-2
+2019/03/10 16:04:40   10 install                                 perl_autorebase            5.26.3-1
+2019/03/10 16:04:40   11 install                                             xxd          8.0.1567-1
+2019/03/10 16:04:40   12 install                                        liblzma5             5.2.3-1
+2019/03/10 16:04:40   13 install                                     libsigsegv2              2.10-2
+2019/03/10 16:04:40   14 install                                         libargp          20110921-3
+2019/03/10 16:04:40   15 install                                   libnghttp2_14            1.31.0-1
+2019/03/10 16:04:40   16 install                                        libgmp10             6.1.2-1
+2019/03/10 16:04:40   17 install                                     libpkgconf3             1.6.0-1
+2019/03/10 16:04:40   18 install                                    libpipeline1             1.4.0-1
+2019/03/10 16:04:40   19 install                                       cygrunsrv              1.62-1
+2019/03/10 16:04:40   20 install                                    libsqlite3_0            3.27.2-1
+2019/03/10 16:04:40   21 install                                         libffi6             3.2.1-1
+2019/03/10 16:04:40   22 install                                       libexpat1             2.2.6-1
+2019/03/10 16:04:40   23 install                                       libcrypt0               2.1-1
+2019/03/10 16:04:40   24 install                                        binutils              2.29-1
+2019/03/10 16:04:40   25 install                                        libbz2_1             1.0.6-3
+2019/03/10 16:04:40   26 install                                        libpcre1              8.40-3
+2019/03/10 16:04:40   27 install                                       libiconv2              1.14-3
+2019/03/10 16:04:40   28 install                                         libgcc1             7.4.0-1
+2019/03/10 16:04:40   29 install                                              nc             1.107-3
+2019/03/10 16:04:40   30 install                                           which              2.20-2
+2019/03/10 16:04:40   31 install                                             run             1.3.4-2
+2019/03/10 16:04:40   32 install                                       ipc-utils               1.0-1
+2019/03/10 16:04:40   33 install                                        hostname              3.13-1
+2019/03/10 16:04:40   34 install                                      editrights              1.03-1
+2019/03/10 16:04:40   35 install                                            dash           0.5.9.1-1
+2019/03/10 16:04:40   36 install                                   libncursesw10     6.0-12.20171125
+2019/03/10 16:04:40   37 install                                          getent           2.18.90-4
+2019/03/10 16:04:40   38 install                                         pkgconf             1.6.0-1
+2019/03/10 16:04:40   39 install                                    libmetalink3             0.1.2-1
+2019/03/10 16:04:40   40 install                                        libintl8          0.19.8.1-2
+2019/03/10 16:04:40   41 install                                           rsync             3.1.2-1
+2019/03/10 16:04:40   42 install                                        libmpfr6             4.0.2-1
+2019/03/10 16:04:40   43 install                                       perl_base            5.26.3-1
+2019/03/10 16:04:40   44 install                                      libtasn1_6              4.13-1
+2019/03/10 16:04:40   45 install                                     libcom_err2            1.44.5-1
+2019/03/10 16:04:40   46 install                                   libunistring2            0.9.10-1
+2019/03/10 16:04:40   47 install                                      libstdc++6             7.4.0-1
+2019/03/10 16:04:40   48 install                                           zlib0            1.2.11-1
+2019/03/10 16:04:40   49 install                                      libnettle6               3.4-1
+2019/03/10 16:04:40   50 install                                          netcat              1.10-3
+2019/03/10 16:04:40   51 install                                     _autorebase            001007-1
+2019/03/10 16:04:40   52 install                                            less               530-1
+2019/03/10 16:04:40   53 install                                        libedit0          20130712-1
+2019/03/10 16:04:40   54 install                                     vim-minimal          8.0.1567-1
+2019/03/10 16:04:40   55 install                                         ncurses     6.0-12.20171125
+2019/03/10 16:04:40   56 install                                    libreadline7             7.0.3-3
+2019/03/10 16:04:40   57 install                                        libattr1            2.4.48-2
+2019/03/10 16:04:40   58 install                                        libpopt0              1.16-2
+2019/03/10 16:04:40   59 install                                     libp11-kit0           0.23.10-1
+2019/03/10 16:04:40   60 install                                 libkrb5support0            1.15.2-2
+2019/03/10 16:04:40   61 install                                        libiconv              1.14-3
+2019/03/10 16:04:40   62 install                                        libgdbm4              1.12-1
+2019/03/10 16:04:40   63 install                                   libsmartcols1            2.33.1-1
+2019/03/10 16:04:40   64 install                                        libuuid1            2.33.1-1
+2019/03/10 16:04:40   65 install                                             sed               4.4-1
+2019/03/10 16:04:40   66 install                                            info               6.6-1
+2019/03/10 16:04:40   67 install                                        dos2unix             7.4.0-1
+2019/03/10 16:04:40   68 install                                       diffutils               3.5-2
+2019/03/10 16:04:40   69 install                                    alternatives          1.3.30c-10
+2019/03/10 16:04:40   70 install                                perl-TermReadKey              2.38-1
+2019/03/10 16:04:40   71 install                                      perl-Error           0.17027-1
+2019/03/10 16:04:40   72 install                                       libidn2_0             2.0.4-1
+2019/03/10 16:04:40   73 install                                        libdb5.3            5.3.28-2
+2019/03/10 16:04:40   74 install                                            file              5.32-1
+2019/03/10 16:04:40   75 install                                     libhogweed4               3.4-1
+2019/03/10 16:04:40   76 install                                       inetutils             1.9.4-1
+2019/03/10 16:04:40   77 install                                            gawk             4.2.1-1
+2019/03/10 16:04:40   78 install                                              bc           1.06.95-2
+2019/03/10 16:04:40   79 install                                       coreutils              8.26-2
+2019/03/10 16:04:40   80 install                                        cygutils            1.4.16-2
+2019/03/10 16:04:40   81 install                                   p11-kit-trust           0.23.10-1
+2019/03/10 16:04:40   82 install                                         p11-kit           0.23.10-1
+2019/03/10 16:04:40   83 install                                    libk5crypto3            1.15.2-2
+2019/03/10 16:04:40   84 install                                       libblkid1            2.33.1-1
+2019/03/10 16:04:40   85 install                                         libpsl5            0.18.0-1
+2019/03/10 16:04:40   86 install                                            perl            5.26.3-1
+2019/03/10 16:04:40   87 install                                            bash            4.4.12-3
+2019/03/10 16:04:40   88 install                                       libkrb5_3            1.15.2-2
+2019/03/10 16:04:40   89 install                                       libfdisk1            2.33.1-1
+2019/03/10 16:04:40   90 install                          perl-Scalar-List-Utils              1.50-1
+2019/03/10 16:04:40   91 install                                          tzcode             2018i-1
+2019/03/10 16:04:40   92 install                                libgssapi_krb5_2            1.15.2-2
+2019/03/10 16:04:40   93 install                                      util-linux            2.33.1-1
+2019/03/10 16:04:40   94 install                                 ca-certificates              2.22-1
+2019/03/10 16:04:40   95 install                                      pkg-config             1.6.0-1
+2019/03/10 16:04:40   96 install                                           groff            1.22.3-1
+2019/03/10 16:04:40   97 install                                              xz             5.2.3-1
+2019/03/10 16:04:40   98 install                                           bzip2             1.0.6-3
+2019/03/10 16:04:40   99 install                                      vim-common          8.0.1567-1
+2019/03/10 16:04:40  100 install                                           unzip              6.0-17
+2019/03/10 16:04:40  101 install                                            gzip               1.8-1
+2019/03/10 16:04:40  102 install                                            grep               3.0-2
+2019/03/10 16:04:40  103 install                                       findutils             4.6.0-1
+2019/03/10 16:04:40  104 install                                  cygutils-extra            1.4.16-2
+2019/03/10 16:04:40  105 install                                     libgnutls30            3.5.18-1
+2019/03/10 16:04:40  106 install                                   libopenssl100            1.0.2r-1
+2019/03/10 16:04:40  107 install                                   libuuid-devel            2.33.1-1
+2019/03/10 16:04:40  108 install                                             vim          8.0.1567-1
+2019/03/10 16:04:40  109 install                                             tar              1.29-1
+2019/03/10 16:04:40  110 install                                          man-db           2.7.6.1-1
+2019/03/10 16:04:40  111 install                                            csih            0.9.11-1
+2019/03/10 16:04:40  112 install                                          rebase             4.4.4-1
+2019/03/10 16:04:40  113 install                                      base-files               4.2-4
+2019/03/10 16:04:40  114 install                                            wget            1.19.1-2
+2019/03/10 16:04:40  115 install                                       libssh2_1             1.7.0-1
+2019/03/10 16:04:40  116 install                                libopenldap2_4_2            2.4.42-1
+2019/03/10 16:04:40  117 install                                    libtorrent19            0.13.6-1
+2019/03/10 16:04:40  118 install                                         openssl            1.0.2r-1
+2019/03/10 16:04:40  119 install                                        python36             3.6.8-1
+2019/03/10 16:04:40  120 install                                         openssh             7.9p1-1
+2019/03/10 16:04:40  121 install                                      libsasl2_3           2.1.26-11
+2019/03/10 16:04:40  122 install                                         python3             3.6.8-1
+2019/03/10 16:04:40  123 install                                        libcurl4            7.59.0-1
+2019/03/10 16:04:40  124 install                                        rtorrent             0.9.6-1
+2019/03/10 16:04:40  125 install                                             git            2.17.0-1
+2019/03/10 16:04:40  126 install                                            curl            7.59.0-1
+2019/03/10 16:04:40 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2019/03/10 16:04:58 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/cygwin/cygwin-3.0.3-1.tar.xz
+2019/03/10 16:04:58 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/login/login-1.12-1.tar.xz
+2019/03/10 16:04:59 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/mintty/mintty-2.9.6-0.tar.xz
+2019/03/10 16:05:00 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-6.0-12.20171125.tar.xz
+2019/03/10 16:05:01 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/tzdata/tzdata-2018i-1.tar.xz
+2019/03/10 16:05:09 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/python-pip/python-pip-wheel/python-pip-wheel-19.0.2-1.tar.xz
+2019/03/10 16:06:00 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/python-setuptools/python-setuptools-wheel/python-setuptools-wheel-40.7.3-1.tar.xz
+2019/03/10 16:06:00 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/publicsuffix-list/publicsuffix-list-dafsa/publicsuffix-list-dafsa-20180523-1.tar.xz
+2019/03/10 16:06:01 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+2019/03/10 16:06:01 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/perl/perl_autorebase/perl_autorebase-5.26.3-1.tar.xz
+2019/03/10 16:06:02 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/vim/xxd/xxd-8.0.1567-1.tar.xz
+2019/03/10 16:06:03 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz
+2019/03/10 16:06:03 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2019/03/10 16:06:03 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libargp/libargp-20110921-3.tar.xz
+2019/03/10 16:06:04 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/nghttp2/libnghttp2_14/libnghttp2_14-1.31.0-1.tar.xz
+2019/03/10 16:06:06 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz
+2019/03/10 16:06:07 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/pkgconf/libpkgconf3/libpkgconf3-1.6.0-1.tar.xz
+2019/03/10 16:06:07 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2019/03/10 16:06:08 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/cygrunsrv/cygrunsrv-1.62-1.tar.xz
+2019/03/10 16:06:12 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/sqlite3/libsqlite3_0/libsqlite3_0-3.27.2-1.tar.xz
+2019/03/10 16:06:12 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2019/03/10 16:06:13 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/expat/libexpat1/libexpat1-2.2.6-1.tar.xz
+2019/03/10 16:06:13 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/crypt/libcrypt0/libcrypt0-2.1-1.tar.xz
+2019/03/10 16:06:54 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/binutils/binutils-2.29-1.tar.xz
+2019/03/10 16:06:54 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz
+2019/03/10 16:06:55 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/pcre/libpcre1/libpcre1-8.40-3.tar.xz
+2019/03/10 16:06:56 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2019/03/10 16:06:57 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gcc/libgcc1/libgcc1-7.4.0-1.tar.xz
+2019/03/10 16:06:57 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/nc/nc-1.107-3.tar.bz2
+2019/03/10 16:06:57 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/which/which-2.20-2.tar.bz2
+2019/03/10 16:06:57 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/run/run-1.3.4-2.tar.xz
+2019/03/10 16:06:58 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2019/03/10 16:06:58 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/hostname/hostname-3.13-1.tar.bz2
+2019/03/10 16:06:58 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/editrights/editrights-1.03-1.tar.xz
+2019/03/10 16:06:58 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/dash/dash-0.5.9.1-1.tar.xz
+2019/03/10 16:07:00 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/ncurses/libncursesw10/libncursesw10-6.0-12.20171125.tar.xz
+2019/03/10 16:07:01 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/getent/getent-2.18.90-4.tar.xz
+2019/03/10 16:07:03 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/pkgconf/pkgconf-1.6.0-1.tar.xz
+2019/03/10 16:07:03 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libmetalink/libmetalink3/libmetalink3-0.1.2-1.tar.bz2
+2019/03/10 16:07:03 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+2019/03/10 16:07:08 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/rsync/rsync-3.1.2-1.tar.xz
+2019/03/10 16:07:09 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/mpfr/libmpfr6/libmpfr6-4.0.2-1.tar.xz
+2019/03/10 16:07:17 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/perl/perl_base/perl_base-5.26.3-1.tar.xz
+2019/03/10 16:07:17 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.13-1.tar.xz
+2019/03/10 16:07:17 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/e2fsprogs/libcom_err2/libcom_err2-1.44.5-1.tar.xz
+2019/03/10 16:07:18 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libunistring/libunistring2/libunistring2-0.9.10-1.tar.xz
+2019/03/10 16:07:19 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gcc/libstdc++6/libstdc++6-7.4.0-1.tar.xz
+2019/03/10 16:07:19 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2019/03/10 16:07:19 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/nettle/libnettle6/libnettle6-3.4-1.tar.xz
+2019/03/10 16:07:19 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/_obsolete/netcat/netcat-1.10-3.tar.bz2
+2019/03/10 16:07:20 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001007-1.tar.xz
+2019/03/10 16:07:20 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/less/less-530-1.tar.xz
+2019/03/10 16:07:20 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libedit/libedit0/libedit0-20130712-1.tar.xz
+2019/03/10 16:07:21 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-8.0.1567-1.tar.xz
+2019/03/10 16:07:22 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/ncurses/ncurses-6.0-12.20171125.tar.xz
+2019/03/10 16:07:22 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+2019/03/10 16:07:22 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/attr/libattr1/libattr1-2.4.48-2.tar.xz
+2019/03/10 16:07:23 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+2019/03/10 16:07:23 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.23.10-1.tar.xz
+2019/03/10 16:07:23 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/krb5/libkrb5support0/libkrb5support0-1.15.2-2.tar.xz
+2019/03/10 16:07:24 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libiconv/libiconv-1.14-3.tar.xz
+2019/03/10 16:07:24 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz
+2019/03/10 16:07:24 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-1.tar.xz
+2019/03/10 16:07:25 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/libuuid1/libuuid1-2.33.1-1.tar.xz
+2019/03/10 16:07:26 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/sed/sed-4.4-1.tar.xz
+2019/03/10 16:07:30 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/texinfo/info/info-6.6-1.tar.xz
+2019/03/10 16:07:32 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/dos2unix/dos2unix-7.4.0-1.tar.xz
+2019/03/10 16:07:34 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/diffutils/diffutils-3.5-2.tar.xz
+2019/03/10 16:07:35 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2019/03/10 16:07:35 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/perl-TermReadKey/perl-TermReadKey-2.38-1.tar.xz
+2019/03/10 16:07:35 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/perl-Error/perl-Error-0.17027-1.tar.xz
+2019/03/10 16:07:35 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libidn2/libidn2_0/libidn2_0-2.0.4-1.tar.xz
+2019/03/10 16:07:47 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/db/libdb5.3/libdb5.3-5.3.28-2.tar.xz
+2019/03/10 16:08:40 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/file/file-5.32-1.tar.xz
+2019/03/10 16:08:42 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/nettle/libhogweed4/libhogweed4-3.4-1.tar.xz
+2019/03/10 16:08:45 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/inetutils/inetutils-1.9.4-1.tar.xz
+2019/03/10 16:08:48 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gawk/gawk-4.2.1-1.tar.xz
+2019/03/10 16:08:49 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/bc/bc-1.06.95-2.tar.xz
+2019/03/10 16:08:52 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/coreutils/coreutils-8.26-2.tar.xz
+2019/03/10 16:08:53 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/cygutils/cygutils-1.4.16-2.tar.xz
+2019/03/10 16:08:53 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.10-1.tar.xz
+2019/03/10 16:08:53 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/p11-kit/p11-kit-0.23.10-1.tar.xz
+2019/03/10 16:08:53 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/krb5/libk5crypto3/libk5crypto3-1.15.2-2.tar.xz
+2019/03/10 16:08:54 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/libblkid1/libblkid1-2.33.1-1.tar.xz
+2019/03/10 16:08:54 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libpsl/libpsl5/libpsl5-0.18.0-1.tar.xz
+2019/03/10 16:08:59 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/perl/perl-5.26.3-1.tar.xz
+2019/03/10 16:09:31 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/bash/bash-4.4.12-3.tar.xz
+2019/03/10 16:09:47 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/krb5/libkrb5_3/libkrb5_3-1.15.2-2.tar.xz
+2019/03/10 16:10:03 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/libfdisk1/libfdisk1-2.33.1-1.tar.xz
+2019/03/10 16:10:04 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/perl-Scalar-List-Utils/perl-Scalar-List-Utils-1.50-1.tar.xz
+2019/03/10 16:10:06 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/tzcode/tzcode-2018i-1.tar.xz
+2019/03/10 16:10:17 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/krb5/libgssapi_krb5_2/libgssapi_krb5_2-1.15.2-2.tar.xz
+2019/03/10 16:10:25 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/util-linux-2.33.1-1.tar.xz
+2019/03/10 16:10:26 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2.22-1.tar.xz
+2019/03/10 16:10:26 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/pkgconf/pkg-config/pkg-config-1.6.0-1.tar.xz
+2019/03/10 16:10:31 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/groff/groff-1.22.3-1.tar.xz
+2019/03/10 16:10:32 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/xz/xz-5.2.3-1.tar.xz
+2019/03/10 16:10:32 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/bzip2/bzip2-1.0.6-3.tar.xz
+2019/03/10 16:11:57 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/vim/vim-common/vim-common-8.0.1567-1.tar.xz
+2019/03/10 16:11:58 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/unzip/unzip-6.0-17.tar.xz
+2019/03/10 16:11:58 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gzip/gzip-1.8-1.tar.xz
+2019/03/10 16:12:00 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/grep/grep-3.0-2.tar.xz
+2019/03/10 16:12:02 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/findutils/findutils-4.6.0-1.tar.xz
+2019/03/10 16:12:03 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/cygutils/cygutils-extra/cygutils-extra-1.4.16-2.tar.xz
+2019/03/10 16:12:04 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gnutls/libgnutls30/libgnutls30-3.5.18-1.tar.xz
+2019/03/10 16:12:07 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2r-1.tar.xz
+2019/03/10 16:12:08 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/libuuid-devel/libuuid-devel-2.33.1-1.tar.xz
+2019/03/10 16:12:14 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/vim/vim-8.0.1567-1.tar.xz
+2019/03/10 16:12:19 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/tar/tar-1.29-1.tar.xz
+2019/03/10 16:12:45 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/man-db/man-db-2.7.6.1-1.tar.xz
+2019/03/10 16:13:17 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/csih/csih-0.9.11-1.tar.xz
+2019/03/10 16:13:20 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/rebase/rebase-4.4.4-1.tar.xz
+2019/03/10 16:13:21 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-files/base-files-4.2-4.tar.xz
+2019/03/10 16:13:27 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/wget/wget-1.19.1-2.tar.xz
+2019/03/10 16:13:28 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libssh2/libssh2_1/libssh2_1-1.7.0-1.tar.xz
+2019/03/10 16:13:29 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/openldap/libopenldap2_4_2/libopenldap2_4_2-2.4.42-1.tar.xz
+2019/03/10 16:13:30 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libtorrent/libtorrent19/libtorrent19-0.13.6-1.tar.xz
+2019/03/10 16:13:31 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/openssl/openssl-1.0.2r-1.tar.xz
+2019/03/10 16:13:38 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/python36/python36-3.6.8-1.tar.xz
+2019/03/10 16:13:58 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/openssh/openssh-7.9p1-1.tar.xz
+2019/03/10 16:14:01 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/cyrus-sasl/libsasl2_3/libsasl2_3-2.1.26-11.tar.xz
+2019/03/10 16:14:01 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/python3/python3-3.6.8-1.tar.xz
+2019/03/10 16:14:05 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/curl/libcurl4/libcurl4-7.59.0-1.tar.xz
+2019/03/10 16:14:08 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/rtorrent/rtorrent-0.9.6-1.tar.xz
+2019/03/10 16:14:18 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/git/git-2.17.0-1.tar.xz
+2019/03/10 16:14:19 Downloaded C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/curl/curl-7.59.0-1.tar.xz
+2019/03/10 16:14:19 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2019/03/10 16:14:19 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/cygwin/cygwin-3.0.3-1.tar.xz
+2019/03/10 16:14:20 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/login/login-1.12-1.tar.xz
+2019/03/10 16:14:21 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/mintty/mintty-2.9.6-0.tar.xz
+2019/03/10 16:14:21 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-6.0-12.20171125.tar.xz
+2019/03/10 16:14:23 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/tzdata/tzdata-2018i-1.tar.xz
+2019/03/10 16:14:45 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/python-pip/python-pip-wheel/python-pip-wheel-19.0.2-1.tar.xz
+2019/03/10 16:14:45 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/python-setuptools/python-setuptools-wheel/python-setuptools-wheel-40.7.3-1.tar.xz
+2019/03/10 16:14:45 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/publicsuffix-list/publicsuffix-list-dafsa/publicsuffix-list-dafsa-20180523-1.tar.xz
+2019/03/10 16:14:46 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+2019/03/10 16:14:46 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/perl/perl_autorebase/perl_autorebase-5.26.3-1.tar.xz
+2019/03/10 16:14:46 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/vim/xxd/xxd-8.0.1567-1.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libargp/libargp-20110921-3.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/nghttp2/libnghttp2_14/libnghttp2_14-1.31.0-1.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/pkgconf/libpkgconf3/libpkgconf3-1.6.0-1.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/cygrunsrv/cygrunsrv-1.62-1.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/sqlite3/libsqlite3_0/libsqlite3_0-3.27.2-1.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/expat/libexpat1/libexpat1-2.2.6-1.tar.xz
+2019/03/10 16:14:47 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/crypt/libcrypt0/libcrypt0-2.1-1.tar.xz
+2019/03/10 16:14:48 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/binutils/binutils-2.29-1.tar.xz
+2019/03/10 16:14:53 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz
+2019/03/10 16:14:53 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/pcre/libpcre1/libpcre1-8.40-3.tar.xz
+2019/03/10 16:14:53 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2019/03/10 16:14:53 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gcc/libgcc1/libgcc1-7.4.0-1.tar.xz
+2019/03/10 16:14:53 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/nc/nc-1.107-3.tar.bz2
+2019/03/10 16:14:53 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/which/which-2.20-2.tar.bz2
+2019/03/10 16:14:54 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/run/run-1.3.4-2.tar.xz
+2019/03/10 16:14:54 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2019/03/10 16:14:54 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/hostname/hostname-3.13-1.tar.bz2
+2019/03/10 16:14:54 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/editrights/editrights-1.03-1.tar.xz
+2019/03/10 16:14:54 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/dash/dash-0.5.9.1-1.tar.xz
+2019/03/10 16:14:54 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/ncurses/libncursesw10/libncursesw10-6.0-12.20171125.tar.xz
+2019/03/10 16:14:54 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/getent/getent-2.18.90-4.tar.xz
+2019/03/10 16:14:55 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/pkgconf/pkgconf-1.6.0-1.tar.xz
+2019/03/10 16:14:55 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libmetalink/libmetalink3/libmetalink3-0.1.2-1.tar.bz2
+2019/03/10 16:14:55 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+2019/03/10 16:14:55 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/rsync/rsync-3.1.2-1.tar.xz
+2019/03/10 16:14:55 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/mpfr/libmpfr6/libmpfr6-4.0.2-1.tar.xz
+2019/03/10 16:14:55 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/perl/perl_base/perl_base-5.26.3-1.tar.xz
+2019/03/10 16:15:01 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.13-1.tar.xz
+2019/03/10 16:15:01 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/e2fsprogs/libcom_err2/libcom_err2-1.44.5-1.tar.xz
+2019/03/10 16:15:01 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libunistring/libunistring2/libunistring2-0.9.10-1.tar.xz
+2019/03/10 16:15:02 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gcc/libstdc++6/libstdc++6-7.4.0-1.tar.xz
+2019/03/10 16:15:02 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2019/03/10 16:15:02 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/nettle/libnettle6/libnettle6-3.4-1.tar.xz
+2019/03/10 16:15:02 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001007-1.tar.xz
+2019/03/10 16:15:02 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/less/less-530-1.tar.xz
+2019/03/10 16:15:02 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libedit/libedit0/libedit0-20130712-1.tar.xz
+2019/03/10 16:15:02 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-8.0.1567-1.tar.xz
+2019/03/10 16:15:03 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/ncurses/ncurses-6.0-12.20171125.tar.xz
+2019/03/10 16:15:04 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+2019/03/10 16:15:04 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/attr/libattr1/libattr1-2.4.48-2.tar.xz
+2019/03/10 16:15:04 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+2019/03/10 16:15:04 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.23.10-1.tar.xz
+2019/03/10 16:15:04 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/krb5/libkrb5support0/libkrb5support0-1.15.2-2.tar.xz
+2019/03/10 16:15:04 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libiconv/libiconv-1.14-3.tar.xz
+2019/03/10 16:15:05 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz
+2019/03/10 16:15:05 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-1.tar.xz
+2019/03/10 16:15:05 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/libuuid1/libuuid1-2.33.1-1.tar.xz
+2019/03/10 16:15:06 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/sed/sed-4.4-1.tar.xz
+2019/03/10 16:15:07 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/texinfo/info/info-6.6-1.tar.xz
+2019/03/10 16:15:08 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/dos2unix/dos2unix-7.4.0-1.tar.xz
+2019/03/10 16:15:10 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/diffutils/diffutils-3.5-2.tar.xz
+2019/03/10 16:15:11 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2019/03/10 16:15:13 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/perl-TermReadKey/perl-TermReadKey-2.38-1.tar.xz
+2019/03/10 16:15:14 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/perl-Error/perl-Error-0.17027-1.tar.xz
+2019/03/10 16:15:14 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libidn2/libidn2_0/libidn2_0-2.0.4-1.tar.xz
+2019/03/10 16:15:14 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/db/libdb5.3/libdb5.3-5.3.28-2.tar.xz
+2019/03/10 16:15:14 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/file/file-5.32-1.tar.xz
+2019/03/10 16:15:15 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/nettle/libhogweed4/libhogweed4-3.4-1.tar.xz
+2019/03/10 16:15:15 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/inetutils/inetutils-1.9.4-1.tar.xz
+2019/03/10 16:15:15 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gawk/gawk-4.2.1-1.tar.xz
+2019/03/10 16:15:17 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/bc/bc-1.06.95-2.tar.xz
+2019/03/10 16:15:17 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/coreutils/coreutils-8.26-2.tar.xz
+2019/03/10 16:15:23 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/cygutils/cygutils-1.4.16-2.tar.xz
+2019/03/10 16:15:23 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.10-1.tar.xz
+2019/03/10 16:15:23 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/p11-kit/p11-kit-0.23.10-1.tar.xz
+2019/03/10 16:15:24 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/krb5/libk5crypto3/libk5crypto3-1.15.2-2.tar.xz
+2019/03/10 16:15:24 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/libblkid1/libblkid1-2.33.1-1.tar.xz
+2019/03/10 16:15:24 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libpsl/libpsl5/libpsl5-0.18.0-1.tar.xz
+2019/03/10 16:15:24 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/perl/perl-5.26.3-1.tar.xz
+2019/03/10 16:15:41 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/bash/bash-4.4.12-3.tar.xz
+2019/03/10 16:15:45 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/krb5/libkrb5_3/libkrb5_3-1.15.2-2.tar.xz
+2019/03/10 16:15:45 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/libfdisk1/libfdisk1-2.33.1-1.tar.xz
+2019/03/10 16:15:45 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/perl-Scalar-List-Utils/perl-Scalar-List-Utils-1.50-1.tar.xz
+2019/03/10 16:15:45 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/tzcode/tzcode-2018i-1.tar.xz
+2019/03/10 16:15:45 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/krb5/libgssapi_krb5_2/libgssapi_krb5_2-1.15.2-2.tar.xz
+2019/03/10 16:15:46 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/util-linux-2.33.1-1.tar.xz
+2019/03/10 16:15:48 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2.22-1.tar.xz
+2019/03/10 16:15:49 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/pkgconf/pkg-config/pkg-config-1.6.0-1.tar.xz
+2019/03/10 16:15:49 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/groff/groff-1.22.3-1.tar.xz
+2019/03/10 16:15:59 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/xz/xz-5.2.3-1.tar.xz
+2019/03/10 16:16:00 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/bzip2/bzip2-1.0.6-3.tar.xz
+2019/03/10 16:16:00 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/vim/vim-common/vim-common-8.0.1567-1.tar.xz
+2019/03/10 16:16:25 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/unzip/unzip-6.0-17.tar.xz
+2019/03/10 16:16:25 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gzip/gzip-1.8-1.tar.xz
+2019/03/10 16:16:26 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/grep/grep-3.0-2.tar.xz
+2019/03/10 16:16:27 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/findutils/findutils-4.6.0-1.tar.xz
+2019/03/10 16:16:29 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/cygutils/cygutils-extra/cygutils-extra-1.4.16-2.tar.xz
+2019/03/10 16:16:30 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/gnutls/libgnutls30/libgnutls30-3.5.18-1.tar.xz
+2019/03/10 16:16:30 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2r-1.tar.xz
+2019/03/10 16:16:30 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/util-linux/libuuid-devel/libuuid-devel-2.33.1-1.tar.xz
+2019/03/10 16:16:31 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/vim/vim-8.0.1567-1.tar.xz
+2019/03/10 16:16:31 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/tar/tar-1.29-1.tar.xz
+2019/03/10 16:16:33 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/man-db/man-db-2.7.6.1-1.tar.xz
+2019/03/10 16:16:37 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/csih/csih-0.9.11-1.tar.xz
+2019/03/10 16:16:37 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/rebase/rebase-4.4.4-1.tar.xz
+2019/03/10 16:16:37 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-files/base-files-4.2-4.tar.xz
+2019/03/10 16:16:38 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/wget/wget-1.19.1-2.tar.xz
+2019/03/10 16:16:40 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libssh2/libssh2_1/libssh2_1-1.7.0-1.tar.xz
+2019/03/10 16:16:40 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/openldap/libopenldap2_4_2/libopenldap2_4_2-2.4.42-1.tar.xz
+2019/03/10 16:16:40 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/libtorrent/libtorrent19/libtorrent19-0.13.6-1.tar.xz
+2019/03/10 16:16:40 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/openssl/openssl-1.0.2r-1.tar.xz
+2019/03/10 16:16:42 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/python36/python36-3.6.8-1.tar.xz
+2019/03/10 16:17:18 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/openssh/openssh-7.9p1-1.tar.xz
+2019/03/10 16:17:20 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/cyrus-sasl/libsasl2_3/libsasl2_3-2.1.26-11.tar.xz
+2019/03/10 16:17:20 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/python3/python3-3.6.8-1.tar.xz
+2019/03/10 16:17:20 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/curl/libcurl4/libcurl4-7.59.0-1.tar.xz
+2019/03/10 16:17:21 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/rtorrent/rtorrent-0.9.6-1.tar.xz
+2019/03/10 16:17:21 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/git/git-2.17.0-1.tar.xz
+2019/03/10 16:17:40 Extracting from file://C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86/release/curl/curl-7.59.0-1.tar.xz
+2019/03/10 16:17:40 Changing gid back to original
+2019/03/10 16:17:40 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2019/03/10 16:18:48 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2019/03/10 16:18:59 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2019/03/10 16:18:59 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2019/03/10 16:19:00 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2019/03/10 16:19:01 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2019/03/10 16:19:03 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2019/03/10 16:19:09 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2019/03/10 16:19:15 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/openssh.sh"
+2019/03/10 16:19:16 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/libsasl2_3.sh"
+2019/03/10 16:19:16 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2019/03/10 16:19:17 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2019/03/10 16:19:17 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/vim.sh"
+2019/03/10 16:19:18 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/wget.sh"
+2019/03/10 16:19:19 running: C:\Users\jcdc\Cygwin\home\jcdc\github\CW_Tools\tools\cygwin\Cygwin_Light_10032019\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_man-db.sh"
+2019/03/10 16:19:19 Changing gid to Administrators
+2019/03/10 16:19:20 Ending cygwin install
